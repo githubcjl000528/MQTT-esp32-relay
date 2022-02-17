@@ -24,3 +24,7 @@ NodeMCU-32S 核心开发板
 MQTT Dash页面
 -------------
 ![image](https://user-images.githubusercontent.com/76577644/154414484-7626d5f9-8e08-4ac5-bee1-f9b1b333ff50.png)
+
+演示视频
+-------------
+https://youtu.be/W9GLN9rv6Rg
